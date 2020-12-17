@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-17 00:09:38
- * @LastEditTime: 2020-12-17 00:48:29
+ * @LastEditTime: 2020-12-17 11:18:45
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /boccclue/src/App.vue
@@ -10,7 +10,7 @@
     <div id="app">
         <img alt="Vue logo" src="./assets/logo.png" />
         <HelloWorld msg="Welcome to Your Vue.js App" />
-        你好呀 wohbhjjj
+        你好呀 wohbhjjj hahhahahah
     </div>
 </template>
 
