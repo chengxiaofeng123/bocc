@@ -10,7 +10,7 @@
     <div id="app">
         <img alt="Vue logo" src="./assets/logo.png" />
         <HelloWorld msg="Welcome to Your Vue.js App" />
-        你好呀 wohbhjjj hahhahahahsdsdsd1111
+        你好呀 wohbhjjj hahhahahahsdsdsd1111ddddd
     </div>
 </template>
 
